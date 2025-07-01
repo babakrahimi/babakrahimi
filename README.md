@@ -21,7 +21,6 @@ I'm a Frontend Developer based in Berlin with years of experience building clean
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Radix UI](https://img.shields.io/badge/-Radix%20UI-black?style=for-the-badge&logo=data:image/svg+xml;base64)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 

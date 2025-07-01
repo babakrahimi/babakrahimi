@@ -34,7 +34,7 @@ I'm a Frontend Developer based in Berlin with years of experience building clean
 
 ## 📬 Get in Touch
 
-- 📧 Email: [babak@rahimi.com](mailto:babak@rahimi.co)
+- 📧 Email: [babak@rahimi.co](mailto:babak@rahimi.co)
 - 💼 LinkedIn: [linkedin.com/in/babakrahimi](https://linkedin.com/in/babakrahimi)
 
 ---

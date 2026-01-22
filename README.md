@@ -26,17 +26,7 @@ I'm a Frontend Developer based in Berlin with years of experience building clean
 
 ---
 
-## 📈 GitHub Stats
-
-![Babak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=babakrahimi&show_icons=true&theme=github_dark)
-
----
-
 ## 📬 Get in Touch
 
 - 📧 Email: [babak@rahimi.co](mailto:babak@rahimi.co)
 - 💼 LinkedIn: [linkedin.com/in/babakrahimi](https://linkedin.com/in/babakrahimi)
-
----
-
-> “While others try to fit in, I focus on standing out.” ✨

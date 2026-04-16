@@ -1,32 +1,59 @@
-# 👋 Hi, I'm Babak Rahimi
+<div align="center">
 
-I'm a Frontend Developer based in Berlin with years of experience building clean, modular, and accessible interfaces using **React**, **TypeScript**, and modern frontend tools. I'm passionate about combining thoughtful UI design with solid technical architecture — and lately, I've been exploring how **AI** can enhance developer workflows and product experiences.
+# Babak Rahimi
 
----
+**Senior Frontend Engineer** · Berlin 🇩🇪
 
-## 🚀 What I'm Currently Focused On
+*Building scalable React architectures & design systems since 2018*
 
-- 🎯 Building frontend architecture with **scalable design systems**
-- 🤖 Integrating AI into real-world React apps to improve UX and productivity
-- 🛠️ Working with **React**, **Next.js**, **Tailwind CSS**, and **Radix UI**
-- 🧪 Exploring UI testing, performance tuning, and code maintainability
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/babakrahimi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:babak@rahimi.co)
 
----
-
-## 🛠 Tech Stack & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+</div>
 
 ---
 
-## 📬 Get in Touch
+### About
 
-- 📧 Email: [babak@rahimi.co](mailto:babak@rahimi.co)
-- 💼 LinkedIn: [linkedin.com/in/babakrahimi](https://linkedin.com/in/babakrahimi)
+I lead frontend teams and craft component libraries that scale across products. My focus is on **clean architecture**, **developer experience**, and turning complex requirements into interfaces that feel effortless to use — and maintain.
+
+Currently leading frontend at **Formilo**, where I'm modernizing legacy UIs with React, Next.js, and a fresh ShadCN + Tailwind design system.
+
+### What I care about
+
+```ts
+const principles = {
+  code:         "readable > clever",
+  components:   "composable, documented, tested",
+  performance:  "measured, not assumed",
+  teams:        "mentorship over gatekeeping",
+};
+```
+
+### Tech I reach for daily
+
+**Core** — React · Next.js · TypeScript
+**UI** — Tailwind · ShadCN · Storybook · Radix
+**State & Data** — TanStack Query · React Hook Form · Zod
+**Quality** — Jest · React Testing Library · Cypress · GitHub Actions
+
+<details>
+<summary>Also comfortable with</summary>
+
+Redux · Styled Components · AWS Amplify · Docker · Husky · AngularJS (legacy)
+
+</details>
+
+### Currently exploring
+
+- AI-assisted developer workflows (Claude Code, Cursor)
+- Patterns for AI-enhanced product experiences in React
+- Microfrontend architectures for multi-team setups
+
+---
+
+<div align="center">
+
+*Open to interesting conversations about frontend architecture, design systems, and the future of dev tools.*
+
+</div>

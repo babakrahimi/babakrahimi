@@ -2,9 +2,9 @@
 
 # Babak Rahimi
 
-**Senior Frontend Engineer** · Berlin 🇩🇪
+**Senior Frontend Engineer**
 
-*Building scalable React architectures & design systems since 2018*
+*Building scalable React architectures & design systems*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/babakrahimi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:babak@rahimi.co)

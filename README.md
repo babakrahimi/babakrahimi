@@ -15,9 +15,7 @@
 
 ### About
 
-I lead frontend teams and craft component libraries that scale across products. My focus is on **clean architecture**, **developer experience**, and turning complex requirements into interfaces that feel effortless to use — and maintain.
-
-Currently leading frontend at **Formilo**, where I'm modernizing legacy UIs with React, Next.js, and a fresh ShadCN + Tailwind design system.
+I build frontend systems and craft component libraries that scale across products. My focus is on **clean architecture**, **developer experience**, and turning complex requirements into interfaces that feel effortless to use — and maintain.
 
 ### What I care about
 
@@ -46,8 +44,8 @@ Redux · Styled Components · AWS Amplify · Docker · Husky · AngularJS (legac
 
 ### Currently exploring
 
-- AI-assisted developer workflows (Claude Code, Cursor)
-- Patterns for AI-enhanced product experiences in React
+- AI-enhanced product experiences in React
+- Patterns for integrating LLMs into real-world UIs
 - Microfrontend architectures for multi-team setups
 
 ---
